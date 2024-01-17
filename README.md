@@ -12,7 +12,7 @@ Blog Site
 > * HTML
 > * CSS
 > * Bootstrap
-> * Javascript
+> * Javascripts
 > * Jquery
 
 ## Project Description
